@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "lib": [
+      "es6"
+    ],
+    "outDir": "./build",
+    "types": ["jest", "jest-extended"],
+    // "target": "es2020",
+    // "esModuleInterop": true,
+  },
+  "include": [
+    "src/**/*.ts"
+  ]
+}

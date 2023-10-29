@@ -1,0 +1,6 @@
+.vscode
+node_modules/
+/logs/
+tmp
+dist
+.DS_Store
